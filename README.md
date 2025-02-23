@@ -22,18 +22,6 @@ Welcome to **Netflix GPT**, a Netflix-inspired platform that enhances movie brow
 
 ---
 
-## 🎥 Project Preview  
-
-![Netflix GPT Preview](https://github.com/rajatrawal/netflix-gpt/assets/72153827/c575eee1-5c7b-4c4e-a866-b64b25ffa5e2)  
-
----
-
-## 🔥 Live Demo  
-
-👉 **[Try Netflix GPT Now!](https://netflixgpt-a347f.web.app/browse)**  
-
----
-
 ## 🛠 Installation Guide  
 
 Follow these steps to set up Netflix GPT locally:  
