@@ -9,6 +9,12 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-Movie%20Recommendation-black?style=for-the-badge&logo=openai)  
 
 ---
+## Preview
+![Image](https://github.com/user-attachments/assets/9ba4c60b-b6bd-4aa5-9bb0-d6561842cba8)
+![Image](https://github.com/user-attachments/assets/d0dcf141-2fc3-4b59-9892-f2a617bb4e21)
+![Image](https://github.com/user-attachments/assets/55bbae76-9f7c-4fcf-ad31-3c7a228f89b5)
+![Image](https://github.com/user-attachments/assets/b6a2db5c-d0dd-4dc8-87d9-2a97a87df32c)
+
 
 ## 🚀 Introduction  
 
