@@ -74,7 +74,7 @@ npm start
 
 ## 🎭 AI-Powered Movie Suggestions  
 
-🚀 To get personalized AI movie recommendations, enter your **OpenAI API key** in the designated section. The AI will analyze your preferences and suggest movies tailored to your taste!  
+🚀 To get personalized AI movie recommendations, enter your **OpenAI API key** in the designated section. The AI will analyze your preferences and suggest movies tailored to your taste on any genere!  
 
 ---
 
