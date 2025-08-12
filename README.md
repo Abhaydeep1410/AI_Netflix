@@ -68,7 +68,7 @@ npm start
 | React       | Frontend framework for UI development  |
 | TMDB        | Movie database API for fetching movie details  |
 | Firebase    | Authentication and hosting  |
-| OpenAI      | AI-driven movie recommendation engine  |
+| OpenAI (bard api)    | AI-driven movie recommendation engine  |
 
 ---
 
