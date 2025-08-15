@@ -1,4 +1,4 @@
-# 🎬 AI GPT: Integrating AI-Powered Suggestions in Netflix .
+# 🎬 AI GPT: Integrating AI-Powered Suggestions in Netflix
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub%20Repo-Netflix%20GPT-green?style=for-the-badge&logo=github)](https://github.com/rajatrawal/netflix-gpt)  
 [![Live Demo](https://img.shields.io/badge/Live-Demo-red?style=for-the-badge&logo=vercel)](https://netflixgpt-a347f.web.app/browse)  
