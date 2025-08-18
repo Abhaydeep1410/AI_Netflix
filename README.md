@@ -28,7 +28,7 @@ Welcome to **Netflix GPT**, a Netflix-inspired platform that enhances movie brow
 
 ---
 
-## 🛠 Installation Guide  
+## 🛠 Installation
 
 Follow these steps to set up Netflix GPT locally:  
 
