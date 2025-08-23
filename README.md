@@ -83,7 +83,7 @@ npm start
 💡 Got an idea to improve Netflix GPT? Want to add more features?  
 
 ⭐ **Star this repo** to show your support  
-🛠️ **Fork & contribute** via Pull Requests  
+🛠️ **Fork & contribute** via Pull 
 🐛 **Report bugs & suggest improvements** in Issues  
 
 Join the innovation – Let's build an AI-enhanced movie experience together! 🚀🎬  
